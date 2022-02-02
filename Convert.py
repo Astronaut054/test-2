@@ -32,7 +32,7 @@ while 1:
         Point = 10 
     else :
         print("The code entered is wrong.")
-    while Point > 1 : # #--------------<<<<<حلقه دوم>>>>>-------------# #
+    while Point > 1 : # #---------------<<<<<حلقه دوم>>>>>--------------# #
         print("-------------------------------------------------")
         print("Point: ", Point)
         time = input("Enter seconds: ")
