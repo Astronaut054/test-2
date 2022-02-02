@@ -64,7 +64,3 @@ while 1:
         if Point <= 0 :
             print("-------------------------------------------------")
             print('Your inventory is over.')
-
-
-#Power by:
-#   Hilda \(^-^)/
